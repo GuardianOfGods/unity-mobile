@@ -17,9 +17,6 @@ Everything in unity mobile game
   <p><b>Unity mobile roadmap</b></p>
 </div>
 
-![Uploading 0_aSMacRrFp_8bYX0o.png…]()
-
-
 # Topics
 - [Unity-Interview-Questions](https://github.com/GuardianOfGods/unity-interview-questions)
 - [Unity-Mobile-Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
