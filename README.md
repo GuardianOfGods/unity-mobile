@@ -31,8 +31,8 @@ For all the newbies, having a clear roadmap will save you time and effort signif
 #
 
 # Topics
-- [Unity-Interview-Questions](https://github.com/GuardianOfGods/unity-interview-questions)
-- [Unity-Mobile-Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
+- [Unity-Interview-Questions](https://github.com/GuardianOfGods/unity-interview-questions) - Some questions used in unity game developer interviews.
+- [Unity-Mobile-Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization) - Optimize your games on mobile devices.
 
 # Support
 - If you like this topic, you can give this repository a star ⭐
