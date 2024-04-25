@@ -24,8 +24,6 @@ For all the newbies, having a clear roadmap will save you time and effort signif
 
 - After you have a good foundational knowledge of programming and Git, you can transition to the phase of starting to learn **Unity**. Unity Engine is a massive game development software, so learning it without proper guidance can be confusing. Therefore, it's important to learn from reputable sources, such as Unity Learn, Brackeys, and others.
 
-If you want to see a detail roadmap, you can see in this [topic](https://medium.com/dual-cat/how-to-become-a-hypercasual-game-dev-ninja-the-skill-map-b8e52103fd7e)
-
 # Topics
 - [Unity-Interview-Questions](https://github.com/GuardianOfGods/unity-interview-questions)
 - [Unity-Mobile-Optimization](https://github.com/GuardianOfGods/unity-mobile-optimization)
