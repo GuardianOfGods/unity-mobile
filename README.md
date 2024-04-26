@@ -28,6 +28,26 @@ For all the newbies, having a clear roadmap will save you time and effort signif
 
 - After you have a good foundational knowledge of programming and Git, you can transition to the phase of starting to learn **Unity**. Unity Engine is a massive game development software, so learning it without proper guidance can be confusing. Therefore, it's important to learn from reputable sources, such as Unity Learn, Brackeys, and others.
 
+# Game Categories
+## Action
+## Adventure
+## Arcade
+## Battle Royale
+## Cassino
+## Casual
+## Card
+## Hyper casual
+## Kids
+## MOBA
+## RPG
+## Puzzle
+## Racing
+## Sports
+## Strategy
+## Trivia
+## Word
+
+
 # Keywords
 
 # Bussiness
