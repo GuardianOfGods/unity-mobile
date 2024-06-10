@@ -49,7 +49,7 @@ For all the newbies, having a clear roadmap will save you time and effort signif
 
 # Mobile devices 
 ## IOS
-This table provides display specifications for various iPhone models.
+- This table provides display specifications for various **iPhone models**.
 
 | Device | Pixels (Width × Height) | Aspect Ratio |
 |--------|-------------------------|--------------|
@@ -95,6 +95,46 @@ This table provides display specifications for various iPhone models.
 | iPhone 15 Plus | 2796 × 1290 | 19.5:9 |
 | iPhone 15 Pro | 2556 × 1179 | 19.5:9 |
 | iPhone 15 Pro Max | 2796 × 1290 | 19.5:9 |
+
+- This table provides display specifications for various **iPad models**.
+
+| Device | Pixels (Width × Height) | Aspect Ratio |
+|--------|-------------------------|--------------|
+| iPad 1st gen | 768 × 1024 | 4:3 |
+| iPad 2 | 768 × 1024 | 4:3 |
+| iPad 3rd gen | 1536 × 2048 | 4:3 |
+| iPad mini | 768 × 1024 | 4:3 |
+| iPad 4th gen | 1536 × 2048 | 4:3 |
+| iPad Air | 1536 × 2048 | 4:3 |
+| iPad mini 2 | 1536 × 2048 | 4:3 |
+| iPad Air 2 | 1536 × 2048 | 4:3 |
+| iPad mini 3 | 1536 × 2048 | 4:3 |
+| iPad mini 4 | 1536 × 2048 | 4:3 |
+| iPad Pro (1st gen 12.9") | 2048 × 2732 | 4:3 |
+| iPad Pro (1st gen 9.7”) | 1536 × 2048 | 4:3 |
+| iPad 5th gen | 1536 × 2048 | 4:3 |
+| iPad Pro (2nd gen 10.5") | 1668 × 2224 | 4:3 |
+| iPad Pro (2nd gen 12.9") | 2048 × 2732 | 4:3 |
+| iPad 6th gen | 1536 × 2048 | 4:3 |
+| iPad Pro (3rd gen 11") | 1668 × 2388 | 4:3 |
+| iPad Pro (3rd gen 12.9") | 2048 × 2732 | 4:3 |
+| iPad Air (3rd gen) | 1668 × 2224 | 4:3 |
+| iPad Mini (5th gen) | 1536 × 2048 | 4:3 |
+| iPad 7th gen | 1620 × 2160 | 4:3 |
+| iPad Pro (4th gen 11") | 1668 × 2388 | 4:3 |
+| iPad Pro (4th gen 12.9") | 2048 × 2732 | 4:3 |
+| iPad 8th gen | 1620 × 2160 | 4:3 |
+| iPad Air (4th gen) | 1640 × 2360 | 23:16 |
+| iPad Pro (5th gen 11") | 1668 × 2388 | 4:3 |
+| iPad Pro (5th gen 12.9") | 2048 × 2732 | 4:3 |
+| iPad 9th gen | 1620 × 2160 | 4:3 |
+| iPad Mini (6th gen) | 1488 × 2266 | 3:2 |
+| iPad Air (5th gen) | 1640 × 2360 | 23:16 |
+| iPad 10th gen | 1640 × 2360 | 23:16 |
+| iPad Pro (6th gen 11") | 1668 × 2388 | 4:3 |
+| iPad Pro (6th gen 12.9") | 2048 × 2732 | 4:3 |
+
+
 # Keywords
 
 # Bussiness
