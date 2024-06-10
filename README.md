@@ -47,7 +47,54 @@ For all the newbies, having a clear roadmap will save you time and effort signif
 ## Trivia
 ## Word
 
+# Mobile devices 
+## IOS
+This table provides display specifications for various iPhone models.
 
+| Device | Pixels (Width × Height) | Aspect Ratio |
+|--------|-------------------------|--------------|
+| iPhone 1st gen | 480 × 320 | 4:3 |
+| iPhone 3G | 480 × 320 | 4:3 |
+| iPhone 3GS | 480 × 320 | 4:3 |
+| iPhone 4 | 960 × 640 | 4:3 |
+| iPhone 4S | 960 × 640 | 4:3 |
+| iPhone 5 | 1136 × 640 | 16:9 |
+| iPhone 5C | 1136 × 640 | 16:9 |
+| iPhone 5S | 1136 × 640 | 16:9 |
+| iPhone 6 | 1334 × 750 | 16:9 |
+| iPhone 6 Plus | 1920 × 1080 | 16:9 |
+| iPhone 6s | 1334 × 750 | 16:9 |
+| iPhone 6s Plus | 1920 × 1080 | 16:9 |
+| iPhone SE 1st gen | 1136 × 640 | 16:9 |
+| iPhone 7 | 1334 × 750 | 16:9 |
+| iPhone 7 Plus | 1920 × 1080 | 16:9 |
+| iPhone 8 | 1334 × 750 | 16:9 |
+| iPhone 8 Plus | 1920 × 1080 | 16:9 |
+| iPhone X | 2436 × 1125 | 19.5:9 |
+| iPhone XS | 2436 × 1125 | 19.5:9 |
+| iPhone XS Max | 2688 × 1242 | 19.5:9 |
+| iPhone XR | 1792 × 828 | 19.5:9 |
+| iPhone 11 | 1792 × 828 | 19.5:9 |
+| iPhone 11 Pro | 2436 × 1125 | 19.5:9 |
+| iPhone 11 Pro Max | 2688 × 1242 | 19.5:9 |
+| iPhone SE 2nd gen | 1334 × 750 | 16:9 |
+| iPhone 12 | 2532 × 1170 | 19.5:9 |
+| iPhone 12 mini | 2340 × 1080 | 19.5:9 |
+| iPhone 12 Pro | 2532 × 1170 | 19.5:9 |
+| iPhone 12 Pro Max | 2778 × 1284 | 19.5:9 |
+| iPhone 13 | 2532 × 1170 | 19.5:9 |
+| iPhone 13 mini | 2340 × 1080 | 19.5:9 |
+| iPhone 13 Pro | 2532 × 1170 | 19.5:9 |
+| iPhone 13 Pro Max | 2778 × 1284 | 19.5:9 |
+| iPhone SE 3rd gen | 1334 × 750 | 16:9 |
+| iPhone 14 | 2532 × 1170 | 19.5:9 |
+| iPhone 14 Pro | 2556 × 1179 | 19.5:9 |
+| iPhone 14 Pro Max | 2796 × 1290 | 19.5:9 |
+| iPhone 14 Plus | 2778 × 1284 | 19.5:9 |
+| iPhone 15 | 2556 × 1179 | 19.5:9 |
+| iPhone 15 Plus | 2796 × 1290 | 19.5:9 |
+| iPhone 15 Pro | 2556 × 1179 | 19.5:9 |
+| iPhone 15 Pro Max | 2796 × 1290 | 19.5:9 |
 # Keywords
 
 # Bussiness
